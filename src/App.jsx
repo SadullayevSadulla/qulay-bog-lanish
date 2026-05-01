@@ -1,5 +1,3 @@
-import IMG from  "../public/avatar.png"
-
 import {
   FaPhoneAlt,
   FaTelegramPlane,
@@ -18,30 +16,33 @@ const profile = {
   role: "Frontend Developer / Web dasturchi",
   bio: "Qulay bog'lanish uchun barcha havolalar bitta joyda.",
   avatar: "/avatar.png",
-  title: "Sadulla Sadullayev - Frontend Developer",
 }
 
 const links = [
   {
     title: 'Telefon',
-    href: 'tel:+998 93 663 07 85',
+    subtitle: '+998 93 663 07 85',
+    href: 'tel:+998936630785',
     icon: <FaPhoneAlt />,
     tone: 'green',
   },
   {
     title: 'SMS yuborish',
-    href: 'sms:+998 93 663 07 85',
+    subtitle: '+998 93 663 07 85',
+    href: 'sms:+998936630785',
     icon: <FaCommentDots />,
     tone: 'blue',
   },
   {
     title: 'Telegram',
+    subtitle: '@sadullayev0627',
     href: 'https://t.me/sadullayev0627',
     icon: <FaTelegramPlane />,
     tone: 'sky',
   },
   {
     title: 'Instagram',
+    subtitle: '@sadullayev.0627',
     href: 'https://www.instagram.com/sadullayev.0627/',
     icon: <FaInstagram />,
     tone: 'pink',
