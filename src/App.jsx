@@ -22,28 +22,28 @@ const profile = {
 const links = [
   {
     title: 'Telefon',
-    subtitle: '+998 93 663 07 85',
+    // subtitle: '+998 93 663 07 85',
     href: 'tel:+998936630785',
     icon: <FaPhoneAlt />,
     tone: 'green',
   },
   {
     title: 'SMS yuborish',
-    subtitle: '+998 93 663 07 85',
+    // subtitle: '+998 93 663 07 85',
     href: 'sms:+998936630785',
     icon: <FaCommentDots />,
     tone: 'blue',
   },
   {
     title: 'Telegram',
-    subtitle: '@sadullayev0627',
+    // subtitle: '@sadullayev0627',
     href: 'https://t.me/sadullayev0627',
     icon: <FaTelegramPlane />,
     tone: 'sky',
   },
   {
     title: 'Instagram',
-    subtitle: '@sadullayev.0627',
+    // subtitle: '@sadullayev.0627',
     href: 'https://www.instagram.com/sadullayev.0627/',
     icon: <FaInstagram />,
     tone: 'pink',
