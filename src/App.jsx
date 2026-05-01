@@ -16,6 +16,7 @@ const profile = {
   role: "Frontend Developer / Web dasturchi",
   bio: "Qulay bog'lanish uchun barcha havolalar bitta joyda.",
   avatar: "/avatar.png",
+  title: "Sadulla Sadullayev - Frontend Developer",
 }
 
 const links = [
