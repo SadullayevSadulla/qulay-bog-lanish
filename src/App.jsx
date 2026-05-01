@@ -17,7 +17,7 @@ const profile = {
   location: "Xorazm, Urganch",
   role: "Frontend Developer / Web dasturchi",
   bio: "Qulay bog'lanish uchun barcha havolalar bitta joyda.",
-  avatar: IMG,
+  avatar: "/avatar.png",
 }
 
 const links = [
